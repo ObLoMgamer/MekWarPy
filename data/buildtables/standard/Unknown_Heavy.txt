@@ -1,0 +1,38 @@
+38 Guillotine GLT-3N.mtf
+28 Champion CHP-1N.mtf
+28 Lancelot LNC25-01.mtf
+28 Thunderbolt TDR-5LS.mtf
+19 Black Knight BL-6-KNT.mtf
+19 Bombardier BMB-12D.mtf
+19 Cestus CTS-6X.mtf
+19 Cestus CTS-6Y.mtf
+19 Dragoon AEM-01 .mtf
+19 Dragoon AEM-02.mtf
+19 Dragoon AEM-03.mtf
+19 Dragoon AEM-04.mtf
+19 Exterminator EXT-4D.mtf
+19 Flashman FLS-8K.mtf
+13 Archer ARC-2Rb.mtf
+13 Marauder MAD-1R.mtf
+13 Ostroc OSR-2Cb.mtf
+13 Thunderbolt TDR-5Sb.mtf
+13 Warhammer WHM-6Rb.mtf
+9 Champion CHP-1N2.mtf
+9 Excalibur EXC-B1.mtf
+9 Excalibur EXC-B2.mtf
+9 Koschei KSC-4I.mtf
+9 Koschei KSC-4L.mtf
+9 Lancelot LNC25-01X.mtf
+9 Thunderbolt TDR-5L.mtf
+6 Black Knight BL-6b-KNT.mtf
+6 Catapult CPLT-C1b.mtf
+6 Champion CHP-1Nb.mtf
+6 Crusader CRD-2R.mtf
+6 Exterminator EXT-4Db.mtf
+6 Galahad GLH-2D.mtf
+6 Marauder MAD-2R.mtf
+6 Shootist ST-8A.mtf
+6 Warhammer WHM-7A.mtf
+3 Excalibur EXC-B2b.mtf
+3 Ostwar OWR-2Mb.mtf
+500 Common

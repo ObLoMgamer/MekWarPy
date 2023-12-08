@@ -1,0 +1,20 @@
+#Timestamp=1495896049295
+Aero Incursion*30*#3FAF3F*0*any*none*20*66*0*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*false*
+Black Water Navy*30*#3FAF3F*0*any*none*20*66*0*500*true*false*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$Periphery$*^ ^*^ ^*0*false*
+Capital Drop Assault*30*#3FAF3F*0*any*only*250*66*0*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*false*
+Capital Ground Assault*30*#3FAF3F*0*any*only*250*66*20*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*true*
+Counter-Piracy Aero Sorte*60*#3FAF3F*0*any*none*20*66*0*500*false*true*None$Periphery$*^ ^*^ ^*0*false*
+Counter-Piracy Assault*60*#3FAF3F*0*any*none*20*66*0*500*false*true*None$Periphery$*^ ^*^ ^*0*false*
+Counter-Piracy Incursion*60*#3FAF3F*0*any*none*20*66*0*500*false*true*None$Periphery$*^ ^*^ ^*0*false*
+Drop Assault*30*#3FAF3F*0*any*none*20*66*0*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*false*
+Drop Incursion*30*#3FAF3F*0*any*none*20*66*0*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*false*
+Ground Assault*30*#3FAF3F*0*any*none*20*66*20*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*true*
+Ground Incursion*30*#3FAF3F*0*any*none*20*66*20*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*true*
+Pirate Aero Sortie*60*#3FAF3F*0*any*none*20*66*0*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*false*
+Pirate Foray*60*#3FAF3F*0*any*none*20*66*0*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*false*
+Pirate Onslaught*60*#3FAF3F*0*any*none*20*66*0*500*false*true*None$Capellan Confederation$Andurien-Canopus Alliance$Free Worlds League$*^ ^*^ ^*0*false*
+Tactical Sim - Aero*30*#3FAF3F*0*any*any*20*66*0*500*true*false*allFactions*^ ^*^ ^*0*true*
+Tactical Sim - Artillery*30*#3FAF3F*0*any*any*20*66*0*500*true*false*allFactions*^ ^*^ ^*0*true*
+Tactical Sim - Standard*30*#3FAF3F*0*any*any*20*66*0*500*true*false*allFactions*^ ^*^ ^*0*true*
+Tutorial - Aero*1000*#00AFAF*0*any*any*0*50*0*500*false*false*None$Solaris Training Company$*^ ^*^ ^*0*false*
+Tutorial - Ground*1000*#00AFAF*0*any*any*0*50*0*500*false*false*None$Solaris Training Company$*^ ^*^ ^*0*false*

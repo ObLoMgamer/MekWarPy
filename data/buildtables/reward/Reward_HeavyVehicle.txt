@@ -1,0 +1,6 @@
+30 Burke.blk
+25 Demon.blk
+20 Magi.blk
+5 Demon (PPC).blk
+5 Demon (SLDF).blk
+15 Marksman.blk

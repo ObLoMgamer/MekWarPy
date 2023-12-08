@@ -1,0 +1,24 @@
+47 Hermes HER-1S.mtf
+47 Thorn THE-N.mtf
+38 Mercury MCY-99.mtf
+38 Sling SL-1H.mtf
+28 Mongoose MON-66.mtf
+28 Mongoose MON-69.mtf
+28 Mongoose MON-70.mtf
+25 Stinger STG-3Gb.mtf
+19 Hermes HER-1Sb.mtf
+19 Hussar HSR-200-D.mtf
+19 Jackrabbit JKR-9R.mtf
+19 Locust LCT-1Vb.mtf
+19 Night Hawk NTK-2Q.mtf
+19 Sling SL-1G.mtf
+19 Talon TLN-5V.mtf
+19 Talon TLN-5W.mtf
+12 Mongoose MON-66b.mtf
+12 Ostscout OTT-7Jb.mtf
+12 Spector SPR-5F.mtf
+12 Thorn THE-Nb.mtf
+9 Jackrabbit JKR-8T.mtf
+6 Falcon FLC-4Nb.mtf
+6 Hussar HSR-200-Db.mtf
+500 Common

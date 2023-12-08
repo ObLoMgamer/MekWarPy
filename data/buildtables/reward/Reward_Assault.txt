@@ -1,0 +1,16 @@
+165 Crockett CRK-5003-1.mtf
+165 Highlander HGN-732.mtf
+150 King Crab KGC-000.mtf
+150 Thug THG-11E.mtf
+10 Battlemaster BLR-1Gb.mtf
+15 Highlander HGN-732b.mtf
+10 King Crab KGC-000b.mtf
+5 King Crab KGC-010.mtf
+15 Mackie MSK-9H.mtf
+10 Rifleman II RFL-3N-2.mtf
+15 Thug THG-11Eb.mtf
+70 Emperor EMP-6A.mtf
+70 Pillager PLG-3Z.mtf
+20 Spartan SPT-N2.mtf
+60 Spartan SPT-NF.mtf
+70 Thunder Hawk TDK-7X.mtf

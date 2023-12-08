@@ -1,0 +1,18 @@
+10 Beagle.blk
+11 Chevalier Light Tank.blk
+5 Cyrano Gunship.blk
+2 Cyrano Gunship (Fury).blk
+10 Gabriel Reconnaissance Hovercraft.blk
+10 Lightning Attack Hovercraft.blk
+5 Lightning Attack Hovercraft (Royal).blk
+5 Nightshade ECM VTOL.blk
+2 Nightshade ECM VTOL (Armor).blk
+1 Nightshade ECM VTOL (Royal).blk
+7 Ripper Infantry Transport.blk
+1 Ripper Infantry Transport (Royal).blk
+1 Cyrano Gunship (Royal).blk
+10 Chevalier Light Tank (BAP).blk
+5 Cobra Transport VTOL.blk
+5 Rotunda Scout Vehicle.blk
+5 Rotunda Scout Vehicle (SRM).blk
+5 Rotunda Scout Vehicle (LRM).blk

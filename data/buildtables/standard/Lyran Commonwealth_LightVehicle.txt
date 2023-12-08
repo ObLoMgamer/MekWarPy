@@ -1,0 +1,10 @@
+80 Packrat LRPV PKR-T5 (ICE).blk
+60 Hunter Light Support Tank.blk
+40 Packrat LRPV PKR-T5.blk
+25 Savannah Master Hovercraft.blk
+20 Hunter Light Support Tank (Ammo).blk
+20 Hunter Light Support Tank (LRM10).blk
+20 Hunter Light Support Tank (LRM15).blk
+20 Packrat LRPV PKR-T5 (ML).blk
+20 Packrat LRPV PKR-T5 (SRM2).blk
+695 Common

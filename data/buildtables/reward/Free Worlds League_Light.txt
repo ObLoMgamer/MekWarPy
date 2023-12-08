@@ -1,0 +1,23 @@
+80 Hermes HER-1A.mtf
+45 Hermes HER-1B.mtf
+40 Spider SDR-5V.mtf
+40 Stinger STG-3G.mtf
+40 UrbanMech UM-R60.mtf
+30 Locust LCT-1V.mtf
+30 Ostscout OTT-7J.mtf
+10 Locust LCT-1E.mtf
+10 Mercury MCY-98.mtf
+5 Firefly FFL-4A.mtf
+5 Flea FLE-15.mtf
+5 Flea FLE-4.mtf
+5 Locust LCT-3V.mtf
+2 Hermes HER-1S.mtf
+1 Hussar HSR-200-D.mtf
+1 Jackrabbit JKR-8T.mtf
+1 Jackrabbit JKR-9R.mtf
+1 Mercury MCY-99.mtf
+1 Mongoose MON-66.mtf
+1 Night Hawk NTK-2Q.mtf
+1 Talon TLN-5V.mtf
+1 Thorn THE-N.mtf
+645 Common

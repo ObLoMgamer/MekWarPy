@@ -1,0 +1,21 @@
+100 Raven RVN-4X.mtf
+65 Raven RVN-1X.mtf
+80 UrbanMech UM-R60.mtf
+40 UrbanMech UM-R60L.mtf
+40 Firebee FRB-2E.mtf
+40 Wasp WSP-1L.mtf
+30 Locust LCT-1L.mtf
+25 Raven RVN-3X.mtf
+15 Jenner JR7-D.mtf
+15 Ostscout OTT-7J.mtf
+1 Firefly FFL-4A.mtf
+1 Hermes HER-1S.mtf
+1 Hussar HSR-200-D.mtf
+1 Jackrabbit JKR-8T.mtf
+1 Jackrabbit JKR-9R.mtf
+1 Mercury MCY-99.mtf
+1 Mongoose MON-66.mtf
+1 Night Hawk NTK-2Q.mtf
+1 Talon TLN-5V.mtf
+1 Thorn THE-N.mtf
+540 Common

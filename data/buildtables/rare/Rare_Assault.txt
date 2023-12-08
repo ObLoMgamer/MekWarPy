@@ -1,0 +1,16 @@
+215 Atlas AS7-D.mtf
+200 Banshee BNC-3E.mtf
+180 Longbow LGB-0W.mtf
+85 BattleMaster BLR-1G.mtf
+90 Stalker STK-3F.mtf
+165 Cyclops CP-10-Z.mtf
+30 Crockett CRK-5003-0.mtf
+35 Goliath GOL-1H.mtf
+5 Annihilator ANH-1A.mtf
+5 Annihilator ANH-1E.mtf
+5 Imp IMP-2E.mtf
+400 Partisan Heavy Tank.blk
+250 Demolisher Heavy Tank (Standard Mk. I).blk
+200 Behemoth Heavy Tank.blk
+115 Rhino Fire Support Tank.blk
+35 Demolisher Heavy Tank (Defensive).blk

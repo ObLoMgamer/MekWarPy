@@ -1,0 +1,26 @@
+70 Valkyrie VLK-QA.mtf
+50 Javelin JVN-10F Fire Javelin.mtf
+50 Wasp WSP-1D.mtf
+30 Wolfhound WLF-1.mtf
+25 Javelin JVN-10N.mtf
+20 Hornet HNT-151.mtf
+20 Hornet HNT-152.mtf
+15 Jenner JR7-D.mtf
+15 Locust LCT-1M.mtf
+15 Panther PNT-9R.mtf
+15 Raven RVN-2X.mtf
+15 UrbanMech UM-R60.mtf
+10 Ostscout OTT-7J.mtf
+10 Spider SDR-5D.mtf
+10 Valkyrie VLK-QF.mtf
+1 Firefly FFL-4A.mtf
+1 Hermes HER-1S.mtf
+1 Hussar HSR-200-D.mtf
+1 Jackrabbit JKR-8T.mtf
+1 Jackrabbit JKR-9R.mtf
+1 Mercury MCY-99.mtf
+1 Mongoose MON-66.mtf
+1 Night Hawk NTK-2Q.mtf
+1 Talon TLN-5V.mtf
+1 Thorn THE-N.mtf
+620 Common

@@ -1,0 +1,8 @@
+50 Weapons Carrier A (LL).blk
+30 Heavy Weapons Carrier (PPC).blk
+10 Capellan Confederation
+10 Draconis Combine
+10 Federated Suns
+10 Free Worlds League
+10 Lyran Commonwealth
+870 Common

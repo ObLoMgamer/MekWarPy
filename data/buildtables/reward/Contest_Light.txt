@@ -1,0 +1,6 @@
+1 Salamander SA2.mtf
+1 Wolf Spider WSD-8R.mtf
+1 Sub-Urban Mech SU-M1.mtf
+1 Mule ML-1.mtf
+1 Sand Flea SFL-2L.mtf
+1 Spinosad SPI-1.mtf

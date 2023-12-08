@@ -1,0 +1,7 @@
+100 Ontos Heavy Tank.blk
+60 Schrek PPC Carrier.blk
+50 Schrek AC Carrier.blk
+40 Ontos Heavy Tank (LRM).blk
+30 Schrek PPC Carrier (Anti-Infantry).blk
+2 Ontos Heavy Tank (Fusion).blk
+718 Common

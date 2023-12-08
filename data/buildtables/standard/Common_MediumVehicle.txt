@@ -1,0 +1,23 @@
+200 Tiger Medium Tank T-12.blk
+150 Maxim Heavy Hover Transport.blk
+150 Prowler Multi-Terrain Vehicle (Succession Wars).blk
+110 Condor Heavy Hover Tank.blk
+80 Vedette Medium Tank.blk
+53 Prowler Multi-Terrain Vehicle (Support).blk
+50 Goblin Medium Tank.blk
+50 Hetzer Wheeled Assault Gun.blk
+40 Condor Heavy Hover Tank (Flamer).blk
+40 Vedette Medium Tank (AC2).blk
+20 Chaparral.blk
+20 Maxim Heavy Hover Transport (SRM2).blk
+20 Maxim Heavy Hover Transport (SRM4).blk
+10 Hetzer Wheeled Assault Gun (Scout).blk
+10 Kanga Medium Hovertank.blk
+10 Prowler Multi-Terrain Vehicle (ECM).blk
+1 Prowler Multi-Terrain Vehicle.blk
+1 Prowler Multi-Terrain Vehicle (Sealed).blk
+1 Thor Artillery Vehicle.blk
+1 Turhan Urban Combat Vehicle (Standard).blk
+1 Zephyr Hovertank.blk
+1 Zephyr Hovertank (Royal).blk
+1 Zephyr Hovertank (SRM2).blk

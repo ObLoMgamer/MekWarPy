@@ -1,0 +1,14 @@
+90 Goblin Medium Tank.blk
+70 Goblin Medium Tank (SRM).blk
+55 Condor Heavy Hover Tank (Davion).blk
+50 Goblin Medium Tank (LRM).blk
+30 Drillson Heavy Hover Tank.blk
+30 Hetzer Wheeled Assault Gun.blk
+30 Hetzer Wheeled Assault Gun (AC10).blk
+20 Goblin Medium Tank (MG).blk
+20 Hetzer Wheeled Assault Gun (LRM).blk
+20 Hetzer Wheeled Assault Gun (SRM).blk
+10 Drillson Heavy Hover Tank (SRM).blk
+10 Hetzer Wheeled Assault Gun (Laser).blk
+10 Hetzer Wheeled Assault Gun (Scout).blk
+555 Common

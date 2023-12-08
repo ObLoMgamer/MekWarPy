@@ -1,0 +1,32 @@
+60 Wolverine WVR-6K.mtf
+60 Wyvern WVE-6N.mtf
+40 Phoenix Hawk PXH-1K.mtf
+40 Sentinel STN-3M.mtf
+40 Shadow Hawk SHD-2K.mtf
+40 Whitworth WTH-1.mtf
+35 Chameleon CLN-7V.mtf
+35 Kintaro KTO-20.mtf
+30 Whitworth WTH-1S.mtf
+20 Crab CRB-20.mtf
+20 Gladiator GLD-4R.mtf
+20 Hermes II HER-4K Hermes III.mtf
+20 Hunchback HBK-4G.mtf
+20 Trebuchet TBT-7K.mtf
+10 Hunchback HBK-4H.mtf
+10 Hunchback HBK-4J.mtf
+10 Hunchback HBK-4N.mtf
+5 Hunchback HBK-4P.mtf
+5 Hunchback HBK-4SP.mtf
+2 Crab CRB-27.mtf
+2 Sentinel STN-3L.mtf
+2 Wyvern WVE-5N.mtf
+1 Galahad GLH-1D.mtf
+1 Griffin GRF-2N.mtf
+1 Kintaro KTO-19.mtf
+1 Kyudo KY2-D-02.mtf
+1 Lynx LNX-9Q.mtf
+1 Osprey OSP-15.mtf
+1 Starslayer STY-2C.mtf
+1 Trebuchet TBT-3C.mtf
+1 Wolverine II WVR-7H.mtf
+465 Common

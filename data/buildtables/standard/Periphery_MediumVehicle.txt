@@ -1,0 +1,19 @@
+90 Myrmidon Medium Tank.blk
+55 Korvin KRV-3.blk
+40 Light SRM Carrier.blk
+30 Goblin Medium Tank.blk
+30 Hetzer Wheeled Assault Gun.blk
+30 Hetzer Wheeled Assault Gun (AC10).blk
+20 Goblin Medium Tank (MG).blk
+20 Hetzer Wheeled Assault Gun (Laser).blk
+20 Hetzer Wheeled Assault Gun (LRM).blk
+20 Hetzer Wheeled Assault Gun (SRM).blk
+10 Hetzer Wheeled Assault Gun (Scout).blk
+4 Engineering Vehicle (Autocannon).blk
+1 Drillson Heavy Hover Tank (ERLL).blk
+10 Capellan Confederation
+10 Draconis Combine
+10 Federated Suns
+10 Free Worlds League
+10 Lyran Commonwealth
+580 Common

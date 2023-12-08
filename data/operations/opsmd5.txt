@@ -1,0 +1,30 @@
+Recon Raid#09a40c8f848e59df882fca8834999549
+Factory Assault#366a511406d5a9ecb70719f1feab22e7
+Minor Beachhead (R)#8f6d182eb629bc84c62ffae8b5e7cabb
+ROM Inquest#7e677cfff8c8b6d5b946bcfe0a8a8889
+Policing Action (R)#7a4b8c78850daf3f3a703acdc0b56e07
+Factory Beachhead#bb65a33a2d2dae91f7219f920ff3b43e
+Minor Offensive (R)#2d2409c500582965b2de56cad423eb2c
+Tutorial - Ground#16ec9302daf17439e1882ce0503f9cd7
+Orbital Repulse#0c413d6357ed64ce85a495b0810ba1ca
+Minor Beachhead (G)#60e89abce901c61f029be318efb5c61c
+Pirate Raid#298b922e75d706e88bc1a34f6696324c
+Pirate Ambush (R)#5113a2ff6ce5373e180d12fede5af7a7
+Tutorial - Aero#26a53c17f539f6c6e5a79579c3e39bca
+ROM Sabotage#cabba64e994b081313404dd04eeb6236
+Minor Beachhead (V)#87d4895b1c1dc4ce0875569ef0021014
+Policing Action (G)#4f604becd0bb572ecc67fb9606aa8490
+ROM Intervention#8d3373fc41bd872d56ab73db5b32d3a6
+Minor Offensive (G)#703217611d726ab4d63412d32a57ca7b
+Policing Action (V)#d521528a4c2640db0b5d3ce4fd26224c
+Minor Offensive (V)#f82c26231e68564809b89720d58351af
+Policing Raid#895f96964047309aedc3af2d09d3301a
+Reaver Onslaught#115fab650cd30289f6b5692395f13538
+Orbital Breakthrough#0a8e047d8c54f8dab98fd9cf69ba52d0
+Pirate Ambush (G)#893484ce1ef89c352cc6dba24a64b2ea
+Valkyrie Probe#80ccb1602cf471df19db9438f2b1f9da
+Cache Recovery#fde7bd80a744ae530de5d7f0bed98e0b
+Valkyrie Strike#7e2b02673c5ca9657a7f658461e3d60c
+Pirate Ambush (V)#1eaaace9919301a2f78b7f8874db02e8
+Factory Raid#62265a72698e5782cdd7b716dfde125e
+Aero Recon#50fe42a6fcb4049947b58ab514142076

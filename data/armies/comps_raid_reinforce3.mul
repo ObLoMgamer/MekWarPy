@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.45.0-MW20180728-9cf956f" >
+
+		<entity chassis="Saracen Medium Hover Tank" model="(Standard)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="6a936fae-313a-4137-8ed6-f87b494d7fce" camoCategory="-- No Camo --">
+			<pilot size="3" name="Amanda Sasaki" nick="" gunnery="4" piloting="5" externalId="11329ebe-8aeb-4574-8a83-99396db5bd89" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+		</entity>
+
+		<entity chassis="Saracen Medium Hover Tank" model="(Standard)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="b8c66109-793d-44bf-9e77-9741f2042cc8" camoCategory="-- No Camo --">
+			<pilot size="3" name="Anahi Dye" nick="" gunnery="4" piloting="5" externalId="68ff0cc6-15f9-4184-a662-37f48f55d2bc" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+		</entity>
+
+		<entity chassis="Saracen Medium Hover Tank" model="(Standard)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="53fd83ea-980b-48c5-9e1d-03c2287b0689" camoCategory="-- No Camo --">
+			<pilot size="3" name="Orlando Motte" nick="" gunnery="4" piloting="5" externalId="60bbdad0-f78c-4a22-823f-28ea998041ad" ejected="false"/>
+      <motive damage="0" penalty="0"/>
+      Tanks have special needs, so don't delete any ammo slots.
+      The first slot in a location is at index="1".
+			<location index="0"> Body
+				<slot index="1" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="2" type="IS Ammo LRM-10" shots="12"/>
+				<slot index="3" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+		</entity>
+
+</unit>

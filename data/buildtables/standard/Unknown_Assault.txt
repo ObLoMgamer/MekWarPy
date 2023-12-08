@@ -1,0 +1,32 @@
+37 Crockett CRK-5003-1.mtf
+37 Mackie MSK-8B.mtf
+37 Mackie MSK-9H.mtf
+28 Zeus ZEU-5S.mtf
+28 Zeus ZEU-5T.mtf
+25 Emperor EMP-6A.mtf
+25 Stalker STK-3Fb.mtf
+19 Highlander HGN-732.mtf
+19 King Crab KGC-000.mtf
+19 King Crab KGC-010.mtf
+19 Pillager PLG-3Z.mtf
+19 Rampage RMP-4G.mtf
+19 Rampage RMP-5G.mtf
+19 Shogun SHG-2H.mtf
+19 Thug THG-11E.mtf
+19 Ymir BWP-3A.mtf
+12 BattleMaster BLR-1Gb.mtf
+12 Crockett CRK-5003-1b.mtf
+12 Highlander HGN-732b.mtf
+12 Thug THG-11Eb.mtf
+9 Atlas II AS7-D-H.mtf
+9 Nightstar NSR-9J.mtf
+9 Spartan SPT-N2.mtf
+9 Spartan SPT-NF.mtf
+6 King Crab KGC-000b.mtf
+6 Rifleman II RFL-3N-2.mtf
+5 Annihilator ANH-1X.mtf
+5 Spartan SPT-N1.mtf
+3 Atlas II AS7-D-H2.mtf
+2 Thunder Hawk TDK-7X.mtf
+1 Annihilator ANH-1G.mtf
+500 Common

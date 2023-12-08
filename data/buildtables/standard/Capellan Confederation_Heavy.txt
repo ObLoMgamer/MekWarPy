@@ -1,0 +1,28 @@
+100 Cataphract CTF-1X.mtf
+55 Cataphract CTF-2X.mtf
+50 Crusader CRD-3L.mtf
+45 Koschei KSC-3I.mtf
+45 Warhammer WHM-6L.mtf
+40 Catapult CPLT-C1.mtf
+40 Champion CHP-2N.mtf
+40 Koschei KSC-3L.mtf
+35 Catapult CPLT-C4.mtf
+30 Catapult CPLT-A1.mtf
+30 Marauder MAD-3L.mtf
+25 Thunderbolt TDR-5S.mtf
+5 Cataphract CTF-0X.mtf
+5 Helepolis HEP-1H.mtf
+2 Champion CHP-1N.mtf
+2 Thunderbolt TDR-5LS.mtf
+1 Black Knight BL-6-KNT.mtf
+1 Bombardier BMB-12D.mtf
+1 Cestus CTS-6Y.mtf
+1 Champion CHP-1N2.mtf
+1 Crusader CRD-2R.mtf
+1 Exterminator EXT-4D.mtf
+1 Flashman FLS-8K.mtf
+1 Lancelot LNC25-05.mtf
+1 Marauder MAD-1R.mtf
+1 Shootist ST-8A.mtf
+1 Thunderbolt TDR-5L.mtf
+440 Common

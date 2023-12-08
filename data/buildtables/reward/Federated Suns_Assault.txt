@@ -1,0 +1,16 @@
+70 Devastator DVS-1D.mtf
+50 BattleMaster BLR-1D.mtf
+50 Victor VTR-9B.mtf
+43 Thug THG-10E.mtf
+40 Stalker STK-3H.mtf
+40 Stalker STK-4N.mtf
+30 Marauder II MAD-4A.mtf
+10 King Crab KGC-0000.mtf
+1 Highlander HGN-732.mtf
+1 Mackie MSK-8B.mtf
+1 Mackie MSK-9H.mtf
+1 Spartan SPT-N1.mtf
+1 Spartan SPT-N2.mtf
+1 Spartan SPT-NF.mtf
+1 Titan TI-1A.mtf
+660 Common

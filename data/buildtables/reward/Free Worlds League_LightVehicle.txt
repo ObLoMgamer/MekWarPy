@@ -1,0 +1,8 @@
+85 Galleon Light Tank GAL-100.blk
+55 Harasser Missile Platform.blk
+50 Harasser Laser Platform.blk
+50 Harasser Missile Platform (Flamer).blk
+30 Harasser Missile Platform (LRM).blk
+30 Harasser Missile Platform (Mini-Peggy).blk
+20 Galleon Light Tank GAL-200.blk
+680 Common

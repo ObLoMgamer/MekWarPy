@@ -1,0 +1,16 @@
+325 Shilone SL-17.blk
+125 Lightning LTN-G15.blk
+100 Corsair CSR-V12.blk
+100 Lucifer II LCF-R16K.blk
+100 Shilone SL-17AC.blk
+75 Hellcat HCT-213.blk
+25 HellcatII HCT213B.blk
+25 Ironsides IRN-SD1.blk
+25 Stingray F-90.blk
+25 Transit TR-10.blk
+15 Ironsides IRN-SD1.blk
+15 Gotha GTHA-500.blk
+8 HellcatII HCT213B.blk
+8 Gotha GTHA-100.blk
+2 Gotha GTHA-300.blk
+2 Ironsides IRN-SD2.blk

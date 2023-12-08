@@ -1,0 +1,14 @@
+25 Eagle EGL-R6.blk
+25 Thunderbird TRB-D36.blk
+15 Chippewa CHP-W5.blk
+15 Stuka STU-K5.blk
+10 Slayer SL-15.blk
+10 Riever F-100.blk
+7 Transgressor TR-13.blk
+25 Ahab AHB-443.blk
+25 Hammerhead HMR-HD.blk
+25 Riever F-100b.blk
+14 Rapier RPR-100.blk
+3 Hammerhead HMR-HE.blk
+2 Ahab AHB-X.blk
+2 Rapier RPR-101.blk

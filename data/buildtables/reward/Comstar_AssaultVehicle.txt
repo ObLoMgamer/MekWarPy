@@ -1,0 +1,20 @@
+120 Behemoth Heavy Tank.blk
+120 Demolisher Heavy Tank (Standard Mk. I).blk
+120 Rhino Fire Support Tank.blk
+110 Schrek PPC Carrier.blk
+60 Partisan Heavy Tank.blk
+60 Partisan Heavy Tank (LRM).blk
+50 Partisan Heavy Tank (AC2).blk
+50 Puma Assault Tank PAT-005.blk
+40 Behemoth Heavy Tank (Armor).blk
+40 Fury Command Tank (Fury II).blk
+30 Alacorn Heavy Tank Mk III.blk
+30 Alacorn Heavy Tank Mk IV.blk
+30 Rhino Fire Support Tank (Flamer).blk
+30 Rhino Fire Support Tank (MG).blk
+30 Rhino Fire Support Tank (SL).blk
+20 Devastator Heavy Tank.blk
+20 Fury Command Tank.blk
+20 Puma Assault Tank PAT-005b.blk
+10 Fury Command Tank (Royal).blk
+10 Rhino Fire Support Tank (Royal).blk

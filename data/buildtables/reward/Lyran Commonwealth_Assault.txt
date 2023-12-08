@@ -1,0 +1,24 @@
+90 Banshee BNC-3S.mtf
+90 Zeus ZEU-6S.mtf
+40 BattleMaster BLR-1S.mtf
+40 Highlander HGN-733.mtf
+40 Striker STC-2C.mtf
+40 Ymir BWP-2B.mtf
+40 Zeus ZEU-6T.mtf
+30 Marauder II MAD-4A.mtf
+30 Stalker STK-3H.mtf
+30 Stalker STK-4N.mtf
+20 Highlander HGN-733C.mtf
+20 Striker STC-2S.mtf
+20 Ymir BWP-2E.mtf
+15 Atlas AS7-RS.mtf
+10 Highlander HGN-733P.mtf
+8 Victor VTR-9S.mtf
+1 Mackie MSK-8B.mtf
+1 Mackie MSK-9H.mtf
+1 Spartan SPT-N1.mtf
+1 Spartan SPT-N2.mtf
+1 Spartan SPT-NF.mtf
+1 Thug THG-11E.mtf
+1 Titan TI-1A.mtf
+430 Common

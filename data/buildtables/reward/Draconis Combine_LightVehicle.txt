@@ -1,0 +1,6 @@
+70 Saracen Medium Hover Tank.blk
+70 Scimitar Medium Hover Tank.blk
+50 Saladin Assault Hover Tank.blk
+20 Saladin Assault Hover Tank (Armor).blk
+20 Scimitar Medium Hover Tank (Missile).blk
+770 Common

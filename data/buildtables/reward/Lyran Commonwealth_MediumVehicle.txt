@@ -1,0 +1,10 @@
+80 Drillson Heavy Hover Tank.blk
+70 Hetzer Wheeled Assault Gun.blk
+40 Hetzer Wheeled Assault Gun (AC10).blk
+20 Hetzer Wheeled Assault Gun (Laser).blk
+20 Hetzer Wheeled Assault Gun (LRM).blk
+20 Hetzer Wheeled Assault Gun (SRM).blk
+15 Drillson Heavy Hover Tank (SRM).blk
+10 Hetzer Wheeled Assault Gun (Scout).blk
+1 Drillson Heavy Hover Tank (ERLL).blk
+724 Common

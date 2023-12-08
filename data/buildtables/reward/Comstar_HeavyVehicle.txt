@@ -1,0 +1,22 @@
+180 Bulldog Medium Tank.blk
+165 Manticore Heavy Tank.blk
+100 Merkava Heavy Tank Mk VIII.blk
+80 Bulldog Medium Tank (LRM).blk
+50 Bulldog Medium Tank (AC2).blk
+50 Pike Support Vehicle.blk
+50 Von Luckner Heavy Tank (Star League).blk
+45 Burke Defense Tank.blk
+40 AC2 Carrier.blk
+40 Demon Tank (PPC).blk
+40 Magi Infantry Support Vehicle.blk
+30 LRM Carrier.blk
+25 Demon Tank.blk
+20 Laser Carrier.blk
+20 SRM Carrier.blk
+20 Thumper Artillery Vehicle TAV-1.blk
+15 Marksman Artillery Vehicle.blk
+10 Demon Tank (Royal).blk
+5 Burke Defense Tank (Royal).blk
+5 Demon Tank (Horned Demon).blk
+5 Padilla Heavy Artillery Tank.blk
+5 Von Luckner Heavy Tank (Royal).blk

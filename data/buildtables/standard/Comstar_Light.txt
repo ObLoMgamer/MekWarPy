@@ -1,0 +1,41 @@
+90 Firestarter FS9-H.mtf
+80 Locust LCT-1V.mtf
+80 Stinger STG-3R.mtf
+80 Wasp WSP-1A.mtf
+75 UrbanMech UM-R60.mtf
+70 Stinger STG-3G.mtf
+60 Thorn THE-N.mtf
+50 Common
+50 Firefly FFL-4A.mtf
+50 Javelin JVN-10N.mtf
+50 Locust LCT-1E.mtf
+25 Commando COM-2D.mtf
+25 Panther PNT-9R.mtf
+20 Mercury MCY-98.mtf
+20 Night Hawk NTK-2Q.mtf
+20 Spider SDR-5V.mtf
+18 Locust LCT-3V.mtf
+15 Firestarter FS9-M Mirage.mtf
+15 Hermes HER-1S.mtf
+15 Hussar HSR-200-D.mtf
+15 Jenner JR7-D.mtf
+15 Mercury MCY-99.mtf
+15 Ostscout OTT-7J.mtf
+10 Falcon FLC-4N.mtf
+10 Hermes HER-1A.mtf
+10 Javelin JVN-10F Fire Javelin.mtf
+10 Mongoose MON-66.mtf
+10 Mongoose MON-68.mtf
+10 Talon TLN-5V.mtf
+5 Firestarter FS9-K.mtf
+5 Mongoose MON-67.mtf
+3 Hussar HSR-200-Db.mtf
+3 Locust LCT-1Vb.mtf
+3 Mongoose MON-66b.mtf
+3 Ostscout OTT-7Jb.mtf
+3 Stinger STG-3Gb.mtf
+3 Talon TLN-5W.mtf
+3 Thorn THE-Nb.mtf
+2 Firestarter FS9-A.mtf
+2 Jackrabbit JKR-8T.mtf
+2 Jackrabbit JKR-9R.mtf

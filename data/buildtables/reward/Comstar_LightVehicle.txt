@@ -1,0 +1,45 @@
+120 Scorpion Light Tank.blk
+90 Scimitar Medium Hover Tank.blk
+70 Galleon Light Tank GAL-100.blk
+60 Packrat LRPV PKR-T5.blk
+60 Pegasus Scout Hovertank.blk
+60 Saracen Medium Hover Tank.blk
+60 Warrior H-7 Attack Helicopter.blk
+50 Plainsman Medium Hovertank.blk
+45 Scorpion Light Tank (SRM).blk
+40 Hunter Light Support Tank.blk
+30 Warrior H-7A Attack Helicopter.blk
+25 Galleon Light Tank GAL-200.blk
+25 Peregrine Attack VTOL.blk
+20 Striker Light Tank.blk
+19 Pegasus Scout Hovertank (Missile).blk
+15 Packrat LRPV PKR-T5 (ICE).blk
+15 Scorpion Light Tank (LRM).blk
+15 Scorpion Light Tank (ML).blk
+15 Warrior H-7C Attack Helicopter.blk
+12 Heavy Wheeled APC (LRM).blk
+12 Heavy Wheeled APC (SRM).blk
+11 Heavy Hover APC (LRM).blk
+11 Heavy Hover APC (SRM).blk
+11 Heavy Tracked APC (LRM).blk
+11 Heavy Tracked APC (SRM).blk
+10 Gabriel Reconnaissance Hovercraft.blk
+8 Beagle.blk
+8 Hunter Light Support Tank (Ammo).blk
+8 Hunter Light Support Tank (LRM10).blk
+8 Hunter Light Support Tank (LRM15).blk
+8 Lightning Attack Hovercraft.blk
+7 Chevalier Light Tank.blk
+5 Chevalier Light Tank (BAP).blk
+5 Cyrano Gunship.blk
+5 Lightning Attack Hovercraft (Royal).blk
+5 Ripper Infantry Transport.blk
+5 Rotunda Scout Vehicle.blk
+3 Nightshade ECM VTOL (Armor).blk
+2 Cobra Transport VTOL.blk
+2 Cobra Transport VTOL (M.A.S.H.).blk
+2 Cyrano Gunship (Royal).blk
+2 Nightshade ECM VTOL.blk
+2 Nightshade ECM VTOL (Royal).blk
+2 Ripper Infantry Transport (Royal).blk
+1 Karnov UR Transport (AC).blk

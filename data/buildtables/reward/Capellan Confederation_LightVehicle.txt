@@ -1,0 +1,14 @@
+15 Packrat LRPV PKR-T5 (ML).blk
+15 Scorpion Light Tank.blk
+10 Packrat LRPV PKR-T5.blk
+10 Packrat LRPV PKR-T5 (ICE).blk
+10 Packrat LRPV PKR-T5 (SRM2).blk
+5 Lightning Attack Hovercraft.blk
+5 Pegasus Scout Hovertank.blk
+5 Pegasus Scout Hovertank (Missile).blk
+5 Pegasus Scout HoverTank (Sensors).blk
+5 Scorpion Light Tank (LRM).blk
+5 Scorpion Light Tank (ML).blk
+5 Scorpion Light Tank (SRM).blk
+1 Karnov UR Transport (AC).blk
+904 Common

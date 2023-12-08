@@ -1,0 +1,13 @@
+150 Crab CRB-27.mtf
+150 Kintaro KTO-19.mtf
+100 Sentinel STN-3L.mtf
+150 Wyvern WVE-5N.mtf
+35 Crab CRB-27b.mtf
+35 Kintaro KTO-19b.mtf
+35 Phoenix Hawk PXH-1b.mtf
+35 Wyvern WVE-5Nb.mtf
+35 Wolverine II WVR-7H.mtf
+75 Lynx LNX-9Q.mtf
+75 Starslayer STY-2C.mtf
+75 Blackjack BJ-3.mtf
+50 Kyudo KY2-D-02.mtf

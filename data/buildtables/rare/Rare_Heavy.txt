@@ -1,0 +1,17 @@
+175 Archer ARC-2R.mtf
+5  Archer ARC-2W.mtf
+175 Crusader CRD-3R.mtf
+175 Marauder MAD-3R.mtf
+175 Rifleman RFL-3N.mtf
+75 Thunderbolt TDR-5S.mtf
+5  Thunderbolt TDR-5SE.mtf
+75 Warhammer WHM-6R.mtf
+50 Orion ON1-K.mtf
+50 Quickdraw QKD-4G.mtf
+25 JagerMech JM6-S.mtf
+15 Orion ON1-V.mtf
+250 Bulldog Medium Tank.blk
+50 LRM Carrier.blk
+250 Manticore Heavy Tank.blk
+250 Merkava Heavy Tank Mk VIII.blk
+200 SRM Carrier.blk

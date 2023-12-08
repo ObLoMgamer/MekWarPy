@@ -1,0 +1,21 @@
+65 Griffin GRF-1S.mtf
+50 Chameleon CLN-7V.mtf
+50 Griffin GRF-1N.mtf
+50 Sentinel STN-3K.mtf
+40 Eisenfaust EFT-4J.mtf
+40 Phoenix Hawk PXH-1.mtf
+30 Lynx LNX-8Q.mtf
+10 Sentinel STN-1S.mtf
+10 Sentinel STN-3KA.mtf
+10 Sentinel STN-3KB.mtf
+10 Sentinel STN-3L.mtf
+6 Alfar AL-A1.mtf
+2 Lynx LNX-9Q.mtf
+1 Galahad GLH-1D.mtf
+1 Griffin GRF-2N.mtf
+1 Kintaro KTO-19.mtf
+1 Kyudo KY2-D-02.mtf
+1 Osprey OSP-15.mtf
+1 Starslayer STY-2C.mtf
+1 Trebuchet TBT-3C.mtf
+620 Common

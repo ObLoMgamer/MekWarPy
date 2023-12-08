@@ -1,0 +1,13 @@
+60 Pike Support Vehicle.blk
+60 Pike Support Vehicle (AC5).blk
+60 Pike Support Vehicle (Missile).blk
+7 Magi Infantry Support Vehicle.blk
+1 Marksman Artillery Vehicle.blk
+1 Von Luckner Heavy Tank (Royal).blk
+1 Von Luckner Heavy Tank (Star League).blk
+10 Capellan Confederation
+10 Draconis Combine
+10 Federated Suns
+10 Free Worlds League
+10 Lyran Commonwealth
+760 Common

@@ -1,0 +1,12 @@
+70 Sabaku Kaze Heavy Scout Hover Tank.blk
+50 Hetzer Wheeled Assault Gun (AC10).blk
+40 Goblin Medium Tank (LRM).blk
+40 Goblin Medium Tank (SRM).blk
+40 Hetzer Wheeled Assault Gun.blk
+40 Shillelagh Missile Tank (Original).blk
+30 Goblin Medium Tank (MG).blk
+30 Hetzer Wheeled Assault Gun (LRM).blk
+30 Hetzer Wheeled Assault Gun (SRM).blk
+20 Goblin Medium Tank.blk
+20 Hetzer Wheeled Assault Gun (Laser).blk
+420 Common

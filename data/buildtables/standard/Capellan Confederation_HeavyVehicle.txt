@@ -1,0 +1,10 @@
+135 Brutus Assault Tank.blk
+130 Po Heavy Tank.blk
+80 Zhukov Heavy Tank.blk
+40 Von Luckner Heavy Tank VNL-K65N.blk
+35 Brutus Assault Tank (PPC 2).blk
+30 Brutus Assault Tank (LRM).blk
+25 Brutus Assault Tank (PPC).blk
+5 Padilla Heavy Artillery Tank (LRM).blk
+2 Marksman Artillery Vehicle.blk
+518 Common

@@ -1,0 +1,51 @@
+100 Griffin GRF-1N.mtf
+100 Phoenix Hawk PXH-1.mtf
+120 Shadow Hawk SHD-2H.mtf
+100 Wolverine WVR-6R.mtf
+50 Centurion CN9-A.mtf
+50 Hunchback HBK-4G.mtf
+50 Trebuchet TBT-5N.mtf
+50 Vulcan VL-2T.mtf
+45 Clint CLNT-2-3T.mtf
+30 Assassin ASN-21.mtf
+30 Blackjack BJ-1.mtf
+35 Dervish DV-6M.mtf
+30 Enforcer ENF-4R.mtf
+30 Hatchetman HCT-3F.mtf
+30 Scorpion SCP-1N.mtf
+15 Centurion CN9-AH.mtf
+15 Chameleon CLN-7V.mtf
+25 Trebuchet TBT-5S.mtf
+5 Vulcan VL-5T.mtf
+20 Wyvern WVE-6N.mtf
+5 Hunchback HBK-4H.mtf
+5 Hunchback HBK-4J.mtf
+5 Hunchback HBK-4N.mtf
+5 Hunchback HBK-4P.mtf
+5 Hunchback HBK-4SP.mtf
+5 Clint CLNT-2-4T.mtf
+5 Crab CRB-20.mtf
+5 Kintaro KTO-18.mtf
+5 Hoplite HOP-4B.mtf
+5 Hoplite HOP-4C.mtf
+200 Hetzer Wheeled Assault Gun.blk
+200 Vedette Medium Tank.blk
+150 Maxim Heavy Hover Transport.blk
+120 Tiger Medium Tank T-12.blk
+100 Condor Heavy Hover Tank.blk
+50 Maxim Heavy Hover Transport (SRM2).blk
+50 Maxim Heavy Hover Transport (SRM4).blk
+50 Vedette Medium Tank (AC2).blk
+30 Prowler Multi-Terrain Vehicle (Succession Wars).blk
+10 Engineering Vehicle (Autocannon).blk
+20 Prowler Multi-Terrain Vehicle (Support).blk
+7 Prowler Multi-Terrain Vehicle.blk
+3 Prowler Multi-Terrain Vehicle (Sealed).blk
+1 Bandit Hovercraft A.blk
+1 Bandit Hovercraft B.blk
+1 Bandit Hovercraft C.blk
+1 Bandit Hovercraft D.blk
+1 Bandit Hovercraft E.blk
+1 Bandit Hovercraft F.blk
+1 Bandit Hovercraft G.blk
+3 Bandit Hovercraft Prime.blk

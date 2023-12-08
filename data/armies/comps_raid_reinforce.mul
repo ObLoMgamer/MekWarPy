@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.45.0-MW20180728-9cf956f" >
+
+		<entity chassis="Mechanized Hover Platoon" model="(Rifle)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="ea8a883f-2c78-428f-8d51-3fe145c5aa04" camoCategory="-- No Camo --">
+			<pilot size="1" name="Mirela Mihaita" nick="" gunnery="4" piloting="8" externalId="80256e3f-e197-4484-8a7c-b47b74119d0a" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+		</entity>
+
+		<entity chassis="Mechanized Hover Platoon" model="(MG)" type="Hover" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="6fdb5356-2520-4f4a-9a52-842c01393869" camoCategory="-- No Camo --">
+			<pilot size="1" name="Mauro Ylla" nick="" gunnery="4" piloting="8" externalId="b644d7a8-718d-4fb0-b79c-04a46bb38df3" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+		</entity>
+
+		<entity chassis="Mechanized Wheeled Platoon" model="(Rifle)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="241cb636-b8d1-44c4-91d0-cf989254a8b6" camoCategory="-- No Camo --">
+			<pilot size="1" name="Ena Yani" nick="" gunnery="4" piloting="8" externalId="4fc781a8-b15a-47d1-8775-f00d58563573" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+		</entity>
+
+		<entity chassis="Mechanized Wheeled Platoon" model="(SRM)" type="Wheeled" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="8d2106bc-4cf2-4550-b29b-c1669b7c0fa2" camoCategory="-- No Camo --">
+			<pilot size="1" name="Latrice bin Mufeed" nick="" gunnery="4" piloting="8" externalId="9b4920dd-38ce-427e-9f64-ba10a70ab955" ejected="false"/>
+			<location index="1"> Field Guns
+				<armor points="0" type="Internal"/>
+			</location>
+		</entity>
+
+</unit>

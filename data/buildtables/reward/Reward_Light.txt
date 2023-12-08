@@ -1,0 +1,14 @@
+150 Hussar HSR-200-D.mtf
+150 Mercury MCY-99.mtf
+150 Mongoose MON-66.mtf
+100 Thorn THE-N.mtf
+30 Hermes HER-1S.mtf
+30 Hussar HSR-200-Db.mtf
+30 Mongoose MON-66b.mtf
+30 Mongoose MON-68.mtf
+30 Mongoose MON-70.mtf
+30 Ostscout OTT-7Jb.mtf
+75 Firefly FFL-4A.mtf
+45 Jackrabbit JKR-9R.mtf
+75 Night Hawk NTK-2Q.mtf
+75 Spector SPR-5F.mtf

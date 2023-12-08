@@ -1,0 +1,13 @@
+15 Burke Defense Tank.blk
+5 Burke Defense Tank (Royal).blk
+10 Demon Tank.blk
+10 Demon Tank (Horned Demon).blk
+10 Demon Tank (PPC).blk
+5 Demon Tank (Royal).blk
+10 Magi Infantry Support Vehicle.blk
+10 Marksman Artillery Vehicle (AC).blk
+5 Marksman Artillery Vehicle.blk
+5 Padilla Heavy Artillery Tank (LRM).blk
+5 Padilla Heavy Artillery Tank.blk
+5 Von Luckner Heavy Tank (Royal).blk
+5 Von Luckner Heavy Tank (Star League).blk

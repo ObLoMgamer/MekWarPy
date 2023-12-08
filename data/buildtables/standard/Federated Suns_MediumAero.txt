@@ -1,0 +1,14 @@
+250 Corsair CSR-V12.blk
+150 Lightning LTN-G15.blk
+125 Corsair CSR-V20.blk
+125 Hellcat HCT-213.blk
+100 Lucifer LCF-R15.blk
+75 Stingray F-90.blk
+75 Transit TR-10.blk
+50 Lucifer LCF-R20.blk
+15 Ironsides IRN-SD1.blk
+15 Gotha GTHA-500.blk
+8 HellcatII HCT213B.blk
+8 Gotha GTHA-100.blk
+2 Gotha GTHA-300.blk
+2 Ironsides IRN-SD2.blk

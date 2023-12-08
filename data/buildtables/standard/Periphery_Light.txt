@@ -1,0 +1,23 @@
+60 Commando COM-2D.mtf
+55 Toro TR-A-6.mtf
+50 Panther PNT-8Z.mtf
+40 UrbanMech UM-R60.mtf
+20 Commando COM-1D.mtf
+20 Mongoose MON-67.mtf
+10 Hermes HER-1A.mtf
+10 Hermes HER-1B.mtf
+10 Ostscout OTT-7J.mtf
+10 Talon TLN-5V.mtf
+6 Thorn THE-N.mtf
+5 Jackrabbit JKR-8T.mtf
+5 Jackrabbit JKR-9R.mtf
+1 Hussar HSR-200-D.mtf
+1 Mercury MCY-99.mtf
+1 Mongoose MON-66.mtf
+1 Night Hawk NTK-2Q.mtf
+10 Capellan Confederation
+10 Draconis Combine
+10 Federated Suns
+10 Free Worlds League
+10 Lyran Commonwealth
+645 Common

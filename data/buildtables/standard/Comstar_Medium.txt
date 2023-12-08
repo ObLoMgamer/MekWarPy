@@ -1,0 +1,48 @@
+50 Blackjack BJ-1.mtf
+50 Centurion CN9-A.mtf
+50 Dervish DV-6M.mtf
+50 Hunchback HBK-4G.mtf
+50 Phoenix Hawk PXH-1.mtf
+50 Trebuchet TBT-5N.mtf
+50 Wolverine WVR-6R.mtf
+40 Chameleon CLN-7V.mtf
+40 Griffin GRF-1N.mtf
+40 Shadow Hawk SHD-2H.mtf
+40 Trebuchet TBT-3C.mtf
+30 Hoplite HOP-4B.mtf
+30 Scorpion SCP-1N.mtf
+30 Trebuchet TBT-5S.mtf
+30 Vulcan VL-2T.mtf
+20 Centurion CN9-AH.mtf
+20 Cicada CDA-2A.mtf
+20 Crab CRB-27.mtf
+20 Enforcer ENF-4R.mtf
+20 Hunchback HBK-4J.mtf
+20 Hunchback HBK-4P.mtf
+20 Hunchback HBK-4SP.mtf
+20 Kintaro KTO-19.mtf
+20 Kyudo KY2-D-02.mtf
+20 Phoenix Hawk PXH-2.mtf
+20 Sentinel STN-3L.mtf
+20 Wyvern WVE-5N.mtf
+10 Assassin ASN-21.mtf
+10 Crab CRB-20.mtf
+10 Gladiator GLD-2R.mtf
+10 Griffin GRF-2N.mtf
+10 Hunchback HBK-4H.mtf
+10 Hunchback HBK-4N.mtf
+10 Lynx LNX-9Q.mtf
+10 Starslayer STY-2C.mtf
+10 Vulcan VL-5T.mtf
+10 Wolverine II WVR-7H.mtf
+5 Galahad GLH-1D.mtf
+3 Crab CRB-27b.mtf
+3 Kintaro KTO-19b.mtf
+3 Osprey OSP-15.mtf
+3 Phoenix Hawk PXH-1b.mtf
+3 Phoenix Hawk PXH-1c.mtf
+3 Sentinel STN-3Lb.mtf
+3 Shadow Hawk SHD-2Hb.mtf
+3 Wyvern WVE-5Nb.mtf
+1 Blackjack BJ-1X.mtf
+50 Common

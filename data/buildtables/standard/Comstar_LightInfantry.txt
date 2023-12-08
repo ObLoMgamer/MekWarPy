@@ -1,0 +1,34 @@
+12 Field Gunners (AC10).blk
+8 Field Gunners (AC2).blk
+4 Field Gunners (AC20).blk
+16 Field Gunners (AC5).blk
+48 Foot Platoon (Laser).blk
+24 Foot Platoon (LRM).blk
+24 Foot Platoon (MG).blk
+96 Foot Platoon (Rifle).blk
+48 Foot Platoon (SRM).blk
+24 Jump Platoon (Laser).blk
+12 Jump Platoon (LRM).blk
+12 Jump Platoon (MG).blk
+48 Jump Platoon (Rifle).blk
+24 Jump Platoon (SRM).blk
+16 Mechanized Hover Platoon (Laser).blk
+8 Mechanized Hover Platoon (LRM).blk
+8 Mechanized Hover Platoon (MG).blk
+32 Mechanized Hover Platoon (Rifle).blk
+16 Mechanized Hover Platoon (SRM).blk
+24 Mechanized Tracked Platoon (Laser).blk
+12 Mechanized Tracked Platoon (LRM).blk
+12 Mechanized Tracked Platoon (MG).blk
+48 Mechanized Tracked Platoon (Rifle).blk
+24 Mechanized Tracked Platoon (SRM).blk
+32 Mechanized Wheeled Platoon (Laser).blk
+16 Mechanized Wheeled Platoon (LRM).blk
+16 Mechanized Wheeled Platoon (MG).blk
+64 Mechanized Wheeled Platoon (Rifle).blk
+32 Mechanized Wheeled Platoon (SRM).blk
+48 Motorized Platoon (Laser).blk
+24 Motorized Platoon (LRM).blk
+24 Motorized Platoon (MG).blk
+96 Motorized Platoon (Rifle).blk
+48 Motorized Platoon (SRM).blk

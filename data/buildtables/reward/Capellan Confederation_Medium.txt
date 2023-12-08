@@ -1,0 +1,29 @@
+120 Vindicator VND-1R.mtf
+70 Cicada CDA-2A.mtf
+60 Blackjack BJ-1.mtf
+60 Vindicator VND-1SIC.mtf
+40 Cicada CDA-2B.mtf
+30 Chameleon CLN-7V.mtf
+30 Cicada CDA-3C.mtf
+20 Hunchback HBK-4G.mtf
+20 Vindicator VND-1AA Avenging Angel.mtf
+10 Hunchback HBK-4H.mtf
+10 Hunchback HBK-4J.mtf
+10 Hunchback HBK-4N.mtf
+5 Blackjack BJ-1X.mtf
+5 Hunchback HBK-4P.mtf
+5 Hunchback HBK-4SP.mtf
+2 Crab CRB-27.mtf
+2 Sentinel STN-3L.mtf
+1 Blackjack BJ-3.mtf
+1 Galahad GLH-1D.mtf
+1 Griffin GRF-2N.mtf
+1 Kintaro KTO-19.mtf
+1 Kyudo KY2-D-02.mtf
+1 Lynx LNX-9Q.mtf
+1 Osprey OSP-15.mtf
+1 Starslayer STY-2C.mtf
+1 Trebuchet TBT-3C.mtf
+1 Wolverine II WVR-7H.mtf
+1 Wyvern WVE-5N.mtf
+490 Common

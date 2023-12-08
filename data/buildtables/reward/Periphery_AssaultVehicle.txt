@@ -1,0 +1,9 @@
+50 Heavy LRM Carrier.blk
+50 Schrek AC Carrier.blk
+20 Schrek PPC Carrier (Anti-Infantry).blk
+10 Capellan Confederation
+10 Draconis Combine
+10 Federated Suns
+10 Free Worlds League
+10 Lyran Commonwealth
+830 Common

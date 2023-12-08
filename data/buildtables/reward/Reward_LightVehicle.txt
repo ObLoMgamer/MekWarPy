@@ -1,0 +1,14 @@
+15 Beagle.blk
+15 Chevalier Light Tank.blk
+7 Cyrano.blk
+15 Gabriel.blk
+15 Lightning.blk
+7 Nightshade.blk
+7 Ripper.blk
+1 Cyrano (SLDF).blk
+1 Lightning (SLDF).blk
+1 Nightshade (SLDF).blk
+1 Ripper (SLDF).blk
+5 Chevalier (BAP).blk
+5 Chevalier (Speed).blk
+5 Cobra Transport VTOL.blk

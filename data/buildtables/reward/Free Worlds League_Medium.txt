@@ -1,0 +1,20 @@
+60 Wolverine WVR-6M.mtf
+50 Hermes II HER-2S.mtf
+50 Trebuchet TBT-5N.mtf
+50 Trebuchet TBT-5S.mtf
+40 Hermes II HER-2M Mercury.mtf
+30 Chameleon CLN-7V.mtf
+30 Icarus II ICR-1S.mtf
+30 Trebuchet TBT-5J.mtf
+20 Cicada CDA-2A.mtf
+1 Crab CRB-27.mtf
+1 Galahad GLH-1D.mtf
+1 Kintaro KTO-19.mtf
+1 Kyudo KY2-D-02.mtf
+1 Lynx LNX-9Q.mtf
+1 Osprey OSP-15.mtf
+1 Sentinel STN-3L.mtf
+1 Starslayer STY-2C.mtf
+1 Trebuchet TBT-3C.mtf
+1 Wolverine II WVR-7H.mtf
+630 Common

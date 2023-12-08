@@ -1,0 +1,24 @@
+60 Orion ON1-K.mtf
+45 Marauder MAD-3M.mtf
+40 Orion ON1-VA.mtf
+30 Black Knight BL-7-KNT.mtf
+30 Black Knight BL-7-KNT-L.mtf
+30 Crusader CRD-3R.mtf
+30 Marauder MAD-3R.mtf
+30 Orion ON1-V.mtf
+30 Warhammer WHM-6R.mtf
+25 Guillotine GLT-4P.mtf
+20 Guillotine GLT-4L.mtf
+4 Helepolis HEP-1H.mtf
+1 Black Knight BL-6-KNT.mtf
+1 Bombardier BMB-12D.mtf
+1 Cestus CTS-6Y.mtf
+1 Crusader CRD-2R.mtf
+1 Excalibur EXC-B1.mtf
+1 Flashman FLS-8K.mtf
+1 Lancelot LNC25-01.mtf
+1 Lancelot LNC25-05.mtf
+1 Marauder MAD-1R.mtf
+1 Marauder MAD-2R.mtf
+1 Shootist ST-8A.mtf
+615 Common

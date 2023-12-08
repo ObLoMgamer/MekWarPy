@@ -1,0 +1,20 @@
+80 Charger CGR-1A9.mtf
+75 Hatamoto-Chi HTM-26T.mtf
+60 Charger CGR-1A1.mtf
+40 Crockett CRK-5003-0.mtf
+40 Stalker STK-3H.mtf
+40 Stalker STK-4N.mtf
+25 King Crab KGC-0000.mtf
+15 Highlander HGN-733.mtf
+10 Daboku DCMS-MX90-D.mtf
+1 Crockett CRK-5003-1.mtf
+1 Highlander HGN-732.mtf
+1 Katana (Crockett) CRK-5003-2.mtf
+1 King Crab KGC-000.mtf
+1 Mackie MSK-8B.mtf
+1 Mackie MSK-9H.mtf
+1 Spartan SPT-N1.mtf
+1 Spartan SPT-N2.mtf
+1 Thug THG-11E.mtf
+1 Titan TI-1A.mtf
+605 Common

@@ -1,0 +1,5 @@
+1 Centaur Self-Propelled Assault Gun.blk
+1 Fiona Heavy Tank.blk
+1 Spartan Missile Tank SMT.blk
+1 Bear Assault Tank.blk
+1 Chimera Assault Tank.blk

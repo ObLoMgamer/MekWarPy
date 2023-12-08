@@ -1,0 +1,5 @@
+120 Ontos Heavy Tank.blk
+60 Devastator Heavy Tank.blk
+60 Ontos Heavy Tank (LRM).blk
+40 Ontos Heavy Tank (Fusion).blk
+720 Common

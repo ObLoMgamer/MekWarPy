@@ -1,0 +1,27 @@
+150 Locust LCT-1V.mtf
+90 Firestarter FS9-H.mtf
+85 Javelin JVN-10N.mtf
+80 UrbanMech UM-R60.mtf
+70 Stinger STG-3G.mtf
+65 Commando COM-2D.mtf
+60 Stinger STG-3R.mtf
+60 Wasp WSP-1A.mtf
+50 Falcon FLC-4N.mtf
+45 Panther PNT-9R.mtf
+25 Javelin JVN-10F Fire Javelin.mtf
+25 Mercury MCY-98.mtf
+25 Mongoose MON-67.mtf
+25 Panther PNT-8Z.mtf
+15 Firestarter FS9-A.mtf
+15 Jenner JR7-D.mtf
+15 Locust LCT-1E.mtf
+15 Locust LCT-3V.mtf
+15 Spider SDR-5V.mtf
+15 Wasp WSP-1W.mtf
+10 Firestarter FS9-K.mtf
+10 Firestarter FS9-M Mirage.mtf
+10 Hermes HER-1A.mtf
+10 Hermes HER-1B.mtf
+10 Ostscout OTT-7J.mtf
+4 Mongoose MON-68.mtf
+1 Mongoose MON-66.mtf

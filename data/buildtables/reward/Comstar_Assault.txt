@@ -1,0 +1,44 @@
+60 Atlas AS7-D.mtf
+60 Awesome AWS-8Q.mtf
+60 Banshee BNC-3E.mtf
+60 BattleMaster BLR-1G.mtf
+60 Longbow LGB-0W.mtf
+60 Longbow LGB-7Q.mtf
+50 Cyclops CP-10-Z.mtf
+50 Goliath GOL-1H.mtf
+50 Highlander HGN-732.mtf
+50 Stalker STK-3F.mtf
+50 Striker STC-2C.mtf
+50 Thug THG-11E.mtf
+50 Victor VTR-9B.mtf
+50 Zeus ZEU-6S.mtf
+30 Cyclops CP-10-Q.mtf
+30 Stalker STK-3H.mtf
+20 Awesome AWS-8T.mtf
+20 Charger CGR-1A1.mtf
+20 Crockett CRK-5003-0.mtf
+20 King Crab KGC-000.mtf
+10 Atlas AS7-RS.mtf
+10 Pillager PLG-1N.mtf
+10 Spartan SPT-N1.mtf
+10 Victor VTR-9A.mtf
+6 Highlander HGN-732b.mtf
+5 Crockett CRK-5003-1.mtf
+5 Emperor EMP-6A.mtf
+5 Rifleman II RFL-3N-2.mtf
+5 Spartan SPT-N2.mtf
+5 Spartan SPT-NF.mtf
+5 Stalker STK-3Fb.mtf
+2 Atlas II AS7-D-H.mtf
+2 Atlas II AS7-D-H2.mtf
+2 BattleMaster BLR-1Gb.mtf
+2 BattleMaster BLR-1Gbc.mtf
+2 BattleMaster BLR-1Gc.mtf
+2 BattleMaster BLR-2C.mtf
+2 Crockett CRK-5003-1b.mtf
+2 King Crab KGC-000b.mtf
+2 Mackie MSK-8B.mtf
+2 Mackie MSK-9H.mtf
+2 Thug THG-11Eb.mtf
+2 Titan TI-1A.mtf
+50 Common

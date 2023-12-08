@@ -1,0 +1,25 @@
+60 Hammerhands HMH-3D.mtf
+55 Warhammer WHM-6D.mtf
+50 Black Knight BL-7-KNT.mtf
+50 Crusader CRD-3D.mtf
+50 Marauder MAD-3D.mtf
+50 Rifleman RFL-3C.mtf
+50 Rifleman RFL-4D.mtf
+45 JagerMech JM6-S.mtf
+40 BattleAxe BKX-7K.mtf
+35 JagerMech JM6-A.mtf
+25 Black Knight BL-7-KNT-L.mtf
+20 Cataphract CTF-4X.mtf
+20 Hammerhands HMH-4D.mtf
+5 Helepolis HEP-1H.mtf
+1 Black Knight BL-6-KNT.mtf
+1 Bombardier BMB-12D.mtf
+1 Cestus CTS-6Y.mtf
+1 Excalibur EXC-B1.mtf
+1 Flashman FLS-8K.mtf
+1 Guillotine GLT-3N.mtf
+1 Marauder MAD-1R.mtf
+1 Marauder MAD-2R.mtf
+1 Shootist ST-8A.mtf
+1 Warhammer WHM-7A.mtf
+435 Common

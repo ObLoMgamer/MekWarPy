@@ -1,0 +1,23 @@
+120 Panther PNT-9R.mtf
+60 Jenner JR7-A.mtf
+50 Jenner JR7-D.mtf
+50 Jenner JR7-F.mtf
+45 Panther PNT-8Z.mtf
+40 Thorn THE-T.mtf
+40 UrbanMech UM-R60.mtf
+40 Wasp WSP-1K.mtf
+30 Hussar HSR-300-D.mtf
+25 Spider SDR-5K.mtf
+20 Mongoose MON-67.mtf
+10 Hussar HSR-350-D.mtf
+5 Firefly FFL-4A.mtf
+5 Mongoose MON-68.mtf
+2 Mongoose MON-70.mtf
+2 Thorn THE-N.mtf
+1 Hussar HSR-200-D.mtf
+1 Jackrabbit JKR-8T.mtf
+1 Jackrabbit JKR-9R.mtf
+1 Mercury MCY-99.mtf
+1 Night Hawk NTK-2Q.mtf
+1 Talon TLN-5V.mtf
+450 Common

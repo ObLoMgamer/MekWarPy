@@ -1,0 +1,7 @@
+250 Eagle EGL-R6.blk
+225 Thunderbird TRB-D36.blk
+125 Chippewa CHP-W5.blk
+125 Stuka STU-K5.blk
+100 Slayer SL-15.blk
+100 Riever F-100.blk
+75 Transgressor TR-13.blk

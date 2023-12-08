@@ -1,0 +1,9 @@
+120 Patton Tank.blk
+100 Marsden II MBT.blk
+90 Rommel Tank.blk
+80 Marsden II MBT II-A.blk
+50 Von Luckner Heavy Tank VNL-K65N.blk
+5 Magi Infantry Support Vehicle.blk
+3 Von Luckner Heavy Tank (Star League).blk
+2 Von Luckner Heavy Tank (Royal).blk
+550 Common

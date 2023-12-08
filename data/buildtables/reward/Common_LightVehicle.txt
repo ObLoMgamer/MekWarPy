@@ -1,0 +1,50 @@
+60 Scorpion Light Tank.blk
+60 Scorpion Light Tank (SRM).blk
+55 Pegasus Scout Hovertank.blk
+50 Packrat LRPV PKR-T5.blk
+50 Saladin Assault Hover Tank.blk
+50 Saracen Medium Hover Tank.blk
+50 Scorpion Light Tank (ML).blk
+50 Striker Light Tank.blk
+40 Scimitar Medium Hover Tank.blk
+35 Hunter Light Support Tank.blk
+35 Skulker Wheeled Scout Tank.blk
+30 Hunter Light Support Tank (Ammo).blk
+30 Packrat LRPV PKR-T5 (SRM2).blk
+30 Pegasus Scout Hovertank (Missile).blk
+30 Scimitar Medium Hover Tank (Missile).blk
+30 Scorpion Light Tank (LRM).blk
+20 Packrat LRPV PKR-T5 (ICE).blk
+20 Pegasus Scout HoverTank (Sensors).blk
+20 Striker Light Tank (LRM).blk
+20 Striker Light Tank (SRM).blk
+20 Weapons Carrier A (LL).blk
+15 Packrat LRPV PKR-T5 (ML).blk
+10 Harasser Missile Platform.blk
+10 Heavy Hover APC (LRM).blk
+10 Heavy Hover APC (SRM).blk
+10 Heavy Tracked APC (LRM).blk
+10 Heavy Tracked APC (SRM).blk
+10 Heavy Weapons Carrier (PPC).blk
+10 Heavy Wheeled APC (LRM).blk
+10 Heavy Wheeled APC (SRM).blk
+10 Hunter Light Support Tank (LRM10).blk
+10 Hunter Light Support Tank (LRM15).blk
+10 Nightshade ECM VTOL (Armor).blk
+10 Peregrine Attack VTOL.blk
+10 Rotunda Scout Vehicle.blk
+10 Skulker Wheeled Scout Tank (SRM).blk
+10 Warrior H-7 Attack Helicopter.blk
+10 Warrior H-7A Attack Helicopter.blk
+10 Warrior H-7C Attack Helicopter.blk
+5 Cobra Transport VTOL.blk
+5 Gabriel Reconnaissance Hovercraft.blk
+1 Beagle.blk
+1 Chevalier Light Tank.blk
+1 Chevalier Light Tank (BAP).blk
+1 Cobra Transport VTOL (M.A.S.H.).blk
+1 Karnov UR Transport (AC).blk
+1 Lightning Attack Hovercraft.blk
+1 Nightshade ECM VTOL.blk
+1 Ripper Infantry Transport.blk
+1 Ripper Infantry Transport (Royal).blk

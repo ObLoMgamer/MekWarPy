@@ -1,0 +1,6 @@
+1 Rifleman RFL-3L.mtf
+1 Ragnarok FRR-1K.mtf
+1 Rifleman RFL-3Y.mtf
+1 Samurai OR-S1.mtf
+1 Strike Valkyrie STRK-VLK.mtf
+1 Yeti YTI-1.mtf

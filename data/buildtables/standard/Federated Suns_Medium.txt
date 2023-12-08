@@ -1,0 +1,25 @@
+85 Enforcer ENF-4R.mtf
+80 Centurion CN9-A.mtf
+60 Dervish DV-6M.mtf
+60 Phoenix Hawk PXH-1D.mtf
+50 Hatchetman HCT-3F.mtf
+45 Kintaro KTO-18.mtf
+35 Assassin ASN-21.mtf
+30 Chameleon CLN-7V.mtf
+30 Shadow Hawk SHD-2D.mtf
+28 Blackjack BJ-1DB.mtf
+28 Blackjack BJ-1DC.mtf
+20 Centurion CN9-AH.mtf
+20 Centurion CN9-AL.mtf
+15 Trebuchet TBT-5N.mtf
+10 Assassin ASN-101.mtf
+1 Crab CRB-27.mtf
+1 Galahad GLH-1D.mtf
+1 Kyudo KY2-D-02.mtf
+1 Lynx LNX-9Q.mtf
+1 Osprey OSP-15.mtf
+1 Sentinel STN-3L.mtf
+1 Starslayer STY-2C.mtf
+1 Trebuchet TBT-3C.mtf
+1 Wyvern WVE-5N.mtf
+395 Common

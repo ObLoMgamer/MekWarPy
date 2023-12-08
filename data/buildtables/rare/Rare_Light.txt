@@ -1,0 +1,45 @@
+250 Wasp WSP-1A.mtf
+125 Firestarter FS9-H.mtf
+250 Stinger STG-3R.mtf
+200 UrbanMech UM-R60.mtf
+100 Locust LCT-1V.mtf
+65 Falcon FLC-4N.mtf
+10 Wasp WSP-1W.mtf
+175 Scorpion Light Tank.blk
+155 Striker Light Tank.blk
+135 Galleon Light Tank GAL-200.blk
+55 Packrat LRPV PKR-T5.blk
+40 Skulker Wheeled Scout Tank.blk
+25 Harasser Missile Platform.blk
+5 Karnov UR Transport.blk
+25 Peregrine Attack VTOL.blk
+25 Plainsman Medium Hovertank.blk
+20 J. Edgar Light Hover Tank (ICE).blk
+115 Galleon Light Tank GAL-100.blk
+15 Packrat LRPV PKR-T5 (ICE).blk
+30 Pegasus Scout Hovertank.blk
+15 Scorpion Light Tank (LRM).blk
+15 Scorpion Light Tank (ML).blk
+15 Scorpion Light Tank (SRM).blk
+12 Heavy Hover APC.blk
+12 Heavy Tracked APC.blk
+12 Heavy Wheeled APC.blk
+10 Skulker Wheeled Scout Tank (MG).blk
+10 Skulker Wheeled Scout Tank (SRM).blk
+5 Heavy Hover APC (LRM).blk
+5 Heavy Hover APC (MG).blk
+5 Heavy Hover APC (SRM).blk
+5 Heavy Tracked APC (LRM).blk
+5 Heavy Tracked APC (MG).blk
+5 Heavy Tracked APC (SRM).blk
+5 Heavy Wheeled APC (LRM).blk
+5 Heavy Wheeled APC (MG).blk
+5 Heavy Wheeled APC (SRM).blk
+12 Weapons Carrier A (LL).blk
+7 Heavy Weapons Carrier (PPC).blk
+5 Badger Tracked Transport A.blk
+5 Badger Tracked Transport B.blk
+5 Badger Tracked Transport C.blk
+5 Badger Tracked Transport D.blk
+5 Badger Tracked Transport E.blk
+5 Badger Tracked Transport Prime.blk

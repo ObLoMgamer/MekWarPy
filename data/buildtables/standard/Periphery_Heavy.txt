@@ -1,0 +1,21 @@
+50 Champion CHP-2N.mtf
+50 Merlin MLN-1A.mtf
+20 JagerMech JM6-A.mtf
+15 Ostwar OWR-2M.mtf
+5 Helepolis HEP-1H.mtf
+1 Black Knight BL-6-KNT.mtf
+1 Bombardier BMB-12D.mtf
+1 Cestus CTS-6Y.mtf
+1 Crusader CRD-2R.mtf
+1 Excalibur EXC-B1.mtf
+1 Flashman FLS-8K.mtf
+1 Marauder MAD-1R.mtf
+1 Marauder MAD-2R.mtf
+1 Shootist ST-8A.mtf
+1 Warhammer WHM-7A.mtf
+10 Capellan Confederation
+10 Draconis Combine
+10 Federated Suns
+10 Free Worlds League
+10 Lyran Commonwealth
+800 Common

@@ -1,0 +1,25 @@
+120 Crusader CRD-3R.mtf
+100 Archer ARC-2R.mtf
+80 Rifleman RFL-3N.mtf
+70 Ostsol OTL-4D.mtf
+60 Thunderbolt TDR-5S.mtf
+60 Warhammer WHM-6R.mtf
+55 Marauder MAD-3R.mtf
+50 Grasshopper GHR-5H.mtf
+50 Guillotine GLT-4L.mtf
+50 JagerMech JM6-S.mtf
+50 Orion ON1-K.mtf
+50 Ostroc OSR-2C.mtf
+30 Bombardier BMB-10D.mtf
+30 Quickdraw QKD-4G.mtf
+25 Ostroc OSR-2L.mtf
+20 Black Knight BL-7-KNT.mtf
+20 Catapult CPLT-C1.mtf
+15 Orion ON1-V.mtf
+15 Orion ON1-VA.mtf
+15 Ostroc OSR-3C.mtf
+10 Archer ARC-2W.mtf
+10 Champion CHP-2N.mtf
+10 Guillotine GLT-4P.mtf
+4 Lancelot LNC25-02.mtf
+1 Lancelot LNC25-03.mtf

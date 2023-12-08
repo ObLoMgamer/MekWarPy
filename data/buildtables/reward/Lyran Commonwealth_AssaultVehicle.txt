@@ -1,0 +1,4 @@
+150 Sturmfeur Heavy Tank.blk
+80 Devastator Heavy Tank.blk
+70 Sturmfeur Heavy Tank (SRM).blk
+700 Common

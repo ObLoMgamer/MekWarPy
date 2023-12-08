@@ -1,0 +1,24 @@
+65 Crusader CRD-3K.mtf
+60 Catapult CPLT-K2.mtf
+60 Dragon DRG-1N.mtf
+60 Grand Dragon DRG-1G.mtf
+50 Archer ARC-2K.mtf
+50 Grasshopper GHR-5H.mtf
+40 Ostroc OSR-2C.mtf
+40 Warhammer WHM-6K.mtf
+30 Lancelot LNC25-02.mtf
+20 Catapult CPLT-C1.mtf
+20 Dragon DRG-1C.mtf
+20 Quickdraw QKD-4G.mtf
+20 Von Rohrs (Hebis) VON 4RH-6.mtf
+15 Quickdraw QKD-4H.mtf
+10 Marauder MAD-1R.mtf
+5 Quickdraw QKD-5A.mtf
+2 Champion CHP-1N.mtf
+2 Exterminator EXT-4D.mtf
+2 Guillotine GLT-3N.mtf
+1 Flashman FLS-8K.mtf
+1 Helepolis HEP-1H.mtf
+1 Lancelot LNC25-01.mtf
+1 Lancelot LNC25-05.mtf
+425 Common

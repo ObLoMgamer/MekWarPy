@@ -1,0 +1,18 @@
+15 Mackie MSK-6S.mtf
+15 Rampage RMP-2G.mtf
+10 Banshee BNC-3MC.mtf
+3 Thug THG-11E.mtf
+2 Spartan SPT-N1.mtf
+2 Spartan SPT-N2.mtf
+2 Spartan SPT-NF.mtf
+2 Titan TI-1A.mtf
+1 Crockett CRK-5003-1.mtf
+1 Mackie MSK-8B.mtf
+1 Mackie MSK-9H.mtf
+1 Pillager PLG-1N.mtf
+10 Capellan Confederation
+10 Draconis Combine
+10 Federated Suns
+10 Free Worlds League
+10 Lyran Commonwealth
+895 Common

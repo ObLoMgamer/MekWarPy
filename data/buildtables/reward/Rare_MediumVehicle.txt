@@ -1,0 +1,11 @@
+10 Chaparral.blk
+10 Hetzer Wheeled Assault Gun (Scout).blk
+10 Kanga Medium Hovertank.blk
+10 Kanga Medium Hovertank (AC).blk
+10 Thor Artillery Vehicle.blk
+10 Thor Artillery Vehicle (AC).blk
+10 Zephyr Hovertank.blk
+10 Zephyr Hovertank (SRM2).blk
+5 Zephyr Hovertank (Royal).blk
+7 Turhan Urban Combat Vehicle (Standard).blk
+8 Turhan Urban Combat Vehicle (Original).blk

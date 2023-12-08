@@ -1,0 +1,23 @@
+70 Talos TLS-1B.mtf
+40 Phoenix PX-3R.mtf
+30 Blackjack BJ-1.mtf
+30 Dervish DV-6M.mtf
+30 Phoenix PX-4R.mtf
+30 Scorpion SCP-1N.mtf
+30 Whitworth WTH-1.mtf
+10 Whitworth WTH-0.mtf
+10 Whitworth WTH-1S.mtf
+1 Crab CRB-27.mtf
+1 Galahad GLH-1D.mtf
+1 Osprey OSP-15.mtf
+1 Sentinel STN-3L.mtf
+1 Starslayer STY-2C.mtf
+1 Trebuchet TBT-3C.mtf
+1 Wolverine II WVR-7H.mtf
+1 Wyvern WVE-5N.mtf
+10 Capellan Confederation
+10 Draconis Combine
+10 Federated Suns
+10 Free Worlds League
+10 Lyran Commonwealth
+662 Common
