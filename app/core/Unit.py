@@ -270,22 +270,22 @@ class Mech(Unit):
 
     def __init__(self):
         super().__init__("", "Mech") #set the name and the unitType
-        self.model = ""
-        self.config = ""
-        self.tech_base = ""
-        self.era = ""
-        self.source = ""
-        self.rules_level = ""
-        self.engine = ""
-        self.structure = ""
-        self.myomer = ""
-        self.heat_sinks = ""
-        self.walk_mp = 0
-        self.jump_mp = 0
-        self.armor = ""
+        self.model = None
+        self.config = None
+        self.tech_base = None
+        self.era = None
+        self.source = None
+        self.rules_level = None
+        self.engine = None
+        
+        self.myomer = None
+        self.heat_sinks = None
+        self.walk_mp = None
+        self.jump_mp = None
         self.armor_distribution = {}
         self.weapons = []
         self.critical_slots = {}
+        self.internal_structure = {}
 
     def __str__(self):
         return f"{self.name} {self.model}"
@@ -367,3 +367,5 @@ class Mech(Unit):
 
         if location:  # Save the last location's data
             self.critical_slots[location] = components
+
+        self.calculate_internal_structure()

@@ -9,7 +9,6 @@ import zipfile
 
 infile = "TW/IS Platoons/Jump Platoon (LRM).blk"
 
-
 loadedInf = Infantry()
 loadedInf.zipload(infile)
 
