@@ -12,7 +12,7 @@ class Client:
     def __init__(self):
         pygame.init()
 
-        self.window_surface = pygame.display.set_mode((800, 600))
+        self.window_surface = pygame.display.set_mode((800, 600), pygame.RESIZABLE)
         self.background = pygame.Surface((800, 600))
         self.background.fill(pygame.Color('#000000'))
         self.manager = pygame_gui.UIManager((800, 600))
@@ -21,9 +21,34 @@ class Client:
         self.is_running = True
 
         #draw base UI elements
-        self.draw_mech_button = pygame_gui.elements.UIButton(relative_rect=pygame.Rect((350, 275), (100, 50)),
-                                            text='Say Hello',
-                                            manager=self.manager)
+        # self.draw_mech_button = pygame_gui.elements.UIButton(relative_rect=pygame.Rect((350, 275), (100, 50)),
+        #                                     text='Say Hello',
+        #                                     manager=self.manager)
+
+        # Create the tab buttons
+        hangar_button = pygame_gui.elements.UIButton(relative_rect=pygame.Rect((0, 0), (100, 50)),
+                                                     text='Hangar',
+                                                     manager=self.manager,
+                                                     object_id='hangar_button')
+        roster_button = pygame_gui.elements.UIButton(relative_rect=pygame.Rect((100, 0), (100, 50)),
+                                                     text='Roster',
+                                                     manager=self.manager,
+                                                     object_id='roster_button')
+        # ...create more buttons for 'Map', 'Battles'
+
+        # Create a scrollable area for Mechs
+        mech_scroll_panel = pygame_gui.elements.UIScrollPane(relative_rect=pygame.Rect((150, 100), (500, 300)),
+                                                                            starting_layer_height=1,
+                                                                            manager=self.manager)
+
+        # Inside this scrollable panel, you would add your Mech images and labels
+        # For now, just add some placeholder buttons
+        for i in range(10):
+            mech_button = pygame_gui.elements.UIButton(relative_rect=pygame.Rect((0, i*60), (480, 50)),
+                                                       text=f'Mech {i}',
+                                                       manager=manager,
+                                                       container=mech_scroll_panel,
+                                                       object_id=f'mech_{i}')
 
     def draw_mech(self, mech):
         # Draw the Mech representation, including armor, internal structure, and equipment locations
@@ -51,20 +76,20 @@ class Client:
                            (screen_width/2 - 50, screen_height/2 - 100), (screen_width/2 + 50, screen_height/2 - 100),
                            (screen_width/2, screen_height/2), (screen_width/2 - 25, screen_height/2 - 130)]
 
-        for part, position in zip(mech_parts, armor_positions):
-            armor_value = mech.armor_distribution.get(f'{part}', 0)
-            structure_value = mech.internal_structure.get(part, 0)
-            text = f"A:{armor_value} S:{structure_value}"
-            text_surface = font.render(text, True, pygame.Color('#FFFF00'))
-            self.background.blit(text_surface, position)
+        # for part, position in zip(mech_parts, armor_positions):
+        #     armor_value = mech.armor_distribution.get(f'{part}', 0)
+        #     structure_value = mech.internal_structure.get(part, 0)
+        #     text = f"A:{armor_value} S:{structure_value}"
+        #     text_surface = font.render(text, True, pygame.Color('#FFFF00'))
+        #     self.background.blit(text_surface, position)
 
-        # Display equipment and location
-        y_offset = 400
-        for location, equipment in mech.critical_slots.items():
-            location_text = f"{location}: " + ", ".join(equipment)
-            text_surface = font.render(location_text, True, pygame.Color('#FFFFFF'))
-            self.background.blit(text_surface, (20, y_offset))
-            y_offset += 30
+        # # Display equipment and location
+        # y_offset = 400
+        # for location, equipment in mech.critical_slots.items():
+        #     location_text = f"{location}: " + ", ".join(equipment)
+        #     text_surface = font.render(location_text, True, pygame.Color('#FFFFFF'))
+        #     self.background.blit(text_surface, (20, y_offset))
+        #     y_offset += 30
 
         # Add more drawing logic and interactivity as needed
 

@@ -46,6 +46,7 @@ class Unit:
         self.rules_level = None
         self.model=None
         self.mass=None
+        self.iconPath=None
 
     def __init__(self, name, unitType):
         self.name = name
