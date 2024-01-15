@@ -35,3 +35,4 @@ class Weapon(Equipment): #there will be an internal dict of all weapons
         self.description=""
         self.toHitModifier = 0
         self.ammoType = None
+

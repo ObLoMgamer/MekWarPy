@@ -1,7 +1,9 @@
 import sys
-from PyQt6 import QtWidgets, uic
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-#let's create some test data
+from PyQt6 import QtWidgets, uic
+from app.client.ui.MainWindow import *
 
 testHangar = {'Mechs':    ['Charger CGR-1A1',
                         'Cyclops CP-10-Z',
@@ -20,32 +22,20 @@ testHangar = {'Mechs':    ['Charger CGR-1A1',
             'Vehicles':   ['Partisan Heavy Tank (Standard)',
                         'Schrek AC Carrier (Standard)',
                         'Demolisher Heavy Tank (Standard Mk. I)',
-                        'Partisan Heavy Tank (LRM)']}
+                        'Partisan Heavy Tank (LRM)'],
+            'Infantry':[]}
+#let's create some test data
 
-class MainWindow(QtWidgets.QMainWindow):
-    def __init__(self):
-        super(MainWindow, self).__init__()
-
-        uic.loadUi("app/client/mainwindow.ui", self)
-
-        self.setWindowTitle("MekWarPy")
-
-    #     button = QPushButton("Press Me!")
-    #     button.setCheckable(True)
-    #     button.clicked.connect(self.the_button_was_clicked)
-    #     button.clicked.connect(self.the_button_was_toggled)
-
-    #     self.setCentralWidget(button)
-
-    # def the_button_was_clicked(self):
-    #     print("Clicked!")
-
-    # def the_button_was_toggled(self, checked):
-    #     print("Checked?", checked)
 
 def main():
+
+    unit_image_map = parse_unit_image_map_to_dict(unit_image_associations_file)
     app = QtWidgets.QApplication(sys.argv)
-    window = MainWindow()
+
+    player = Player('testPlayer')
+    player.setHangar(testHangar)
+    player.generateTestPilots() #generate test pilots to match the types of whatever we've put into the test unit hangar
+    window = MainWindow(player)
     window.show()
     app.exec()
 

@@ -2,10 +2,29 @@ import sys
 import os
 import zipfile
 import math
+import random
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from app.core.Utils import *
 
 mechZip = 'data/mechfiles/mechs.zip'
 vehicleZip = 'data/mechfiles/vehicles.zip'
 infantryZip = 'data/mechfiles/infantry.zip'
+
+pilotTypes = ['MechWarrior', 'Vechicle Driver']
+pilotGenders = ['Male', 'Female']
+pilotXpLevelTiers = [30, 60, 105, 150, 210, 270] #2, 2, 3, 3, 4, 4, 5, 5
+pilotImagePath = 'data/images/portraits'
+
+nameFiles = {'Last':'data/names/surnames.txt', 'Male':'data/names/firstnames_male.txt', 'Female':'data/names/firstnames_female.txt'}
+
+unit_image_associations_file = 'data/images/units/mechset.txt'
+units_path = 'data/mechfiles'
+
+portraitDirs = {'MechWarrior': ['MechWarrior', 'ProtoMech Pilot', 'LAM Pilot'], 'Vechicle Driver': ['Aerospace Pilot', 'Conventional Aircraft Pilot', 'Vehicle Crew', 'Vehicle Driver', 'Vehicle Gunner', 'VTOL Pilot']}
+
+# lastNamesCount = 72788
+# femaleFirstNamesCount = 16991
+# maleFirstNamesCount = 39590
 
 def print_instance_attributes(instance):
     """
@@ -17,48 +36,129 @@ def print_instance_attributes(instance):
         if not attr.startswith('__') and not callable(getattr(instance, attr)):
             print(f"{attr}: {getattr(instance, attr)}")
 
-class Pilot:
+class Pilot: #pilot/mechwarrior
 
-    def __init__(self, name, pilotType):
-        self.name = name
-        self.type = pilotType
+    def __init__(self, pilotType=None):
+
+        self.type = pilotType #mech or vehicle
+        if pilotType == 'MechWarriors' or pilotType == 'Mechs' or pilotType == pilotTypes[0]:
+            self.type = pilotTypes[0]
+        elif pilotType == 'Pilots' or pilotType == 'Vehicles' or pilotType == pilotTypes[1]:
+            self.type = pilotTypes[1]
+        else:
+            print('Unknown pilot type!')
+        self.name = None
+        self.icon = None
         self.gunnery = 4
         self.piloting = 5
         self.experience = None
         self.skills = [] #pilot skills such as Manoevering Ace, Astech, etc.
-        self.matchHistory={}
+        self.opHistory=[] #list of all operations pilot took part in
+        self.xp=0 #experience points
+        self.gender = None
+        self.setGender(random.choice(pilotGenders))
+        self.setRandomIcon()
+        self.setRandomName()
 
+    def setRandomIcon(self):
+        #set a random pilot icon from a pool of available icons, based on gender and pilot type
+        if not self.gender: #set a random gender if o gender is yet set
+            self.setGender(random.choice(pilotGenders))
 
-    def __init__(self):
-        self.name = None
-        self.gunnery = None
-        self.piloting = None
-        self.type = None #either vehicle or mech
-        self.experience = None
-        self.skills = []
-        self.matchHistory={}
+        base_dir = 'data/images/portraits/'+self.gender+'/'+random.choice(portraitDirs[self.type])
 
-class Unit: 
+        #now pick a random .png file from that dir
+        try:
+            file_list = [f for f in os.listdir(base_dir) if os.path.isfile(os.path.join(base_dir, f))]
+            if not file_list:
+                raise ValueError(f"No images found in directory: {base_dir}")
 
-    def __init__(self):
-        self.name = None
+            # Select a random file from the list
+            self.icon = os.path.join(base_dir, random.choice(file_list))
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            self.icon = None
+
+    def setGender(self, gender):
+        self.gender = gender
+
+    def setRandomName(self):
+        if not self.gender: #set a random gender if o gender is yet set
+            coin = random.randint(0,1)
+            self.setGender(pilotGenders[coin])
+
+        #now generate a random pilot name
+        lastName = get_random_name_from_large_file(nameFiles['Last'])
+        firstName = get_random_name_from_large_file(nameFiles[self.gender])
+
+        self.name = firstName + ' ' + lastName
+
+        print(self.name)
+
+    def levelUp(self): #increase pilot level with all consequences
+        print()
+
+class Unit:
+
+    unit_image_map = parse_unit_image_map_to_dict(unit_image_associations_file)
+
+    def __init__(self, name):
+
+        #print(self.unit_image_map)
+        self.name = name
+        print(self.name)
         self.unitType = None
         self.rules_level = None
         self.model=None
         self.mass=None
         self.iconPath=None
+        self.pilot = None #assign the Pilot or Mechwarrior
+        self.icon = None
+        self.setUnitIcon()
 
-    def __init__(self, name, unitType):
-        self.name = name
-        self.unitType = unitType
-        self.rules_level = None
-        self.model=None
-        self.mass=None
+    def setUnitIcon(self):
+
+        if self.name != None: #if the unit has a name, this can be run
+
+            chassis = self.name.split(' ')[0].strip()
+            print('The chasis is: '+chassis)
+            print('The unit is: '+self.name)
+
+            unitName=''
+            image_path=''
+            unitFound=False
+            if self.name not in self.unit_image_map:
+                #look for chasis model
+                splitName = self.name.split(' ') #split name by spaces
+
+                while len(splitName)!=0:
+                    testName=''
+                    for word in splitName:
+                        testName=testName+' '+word #add all the words
+                        testName = testName.strip()
+                        print(testName)
+                    if testName in self.unit_image_map:
+                        unitName = testName
+                        unitFound=True
+                        break #we found a matching name, stop searching
+                    splitName.pop() #remove the last list item
+                if unitFound==False:
+                    image_path = self.unit_image_map['default_unknown']
+                else:
+                    image_path = self.unit_image_map[unitName]
+            else:
+                image_path = self.unit_image_map[self.name]
+
+            self.icon = 'data/images/units/'+image_path
+        else:
+            print('Error, unnamed unit, cannot proceed!')
 
 class Infantry(Unit):
     
-    def __init__(self):
-        self.unit_type = None
+    def __init__(self, name):
+        super().__init__(name)
+        self.name = name
+        self.unit_type = 'Infantry'
         self.name = None
         self.model = None
         self.year = None
@@ -123,10 +223,15 @@ class Infantry(Unit):
                 elif current_tag == 'Field Guns Equipment':
                     self.field_guns_equipment.append(line)
 
+    def setSkills(self, gunnery, piloting):
+        self.pilot.gunnery = gunnery
+        self.pilot.piloting = piloting
+
 class Vehicle(Unit):
 
-    def __init__(self):
-        super().__init__("", "Vehicle") #set the name and the unitType
+    def __init__(self, name):
+        self.name = name
+        super().__init__(name)
         'Name', 'Model', 'year', 'Type', 'motion_type', 'cruiseMP', 'engine_type', 'tonnage', 'UnitType', 'transporters', 'source'
          # Initialize equipment locations and armor
         self.equipment = {
@@ -159,6 +264,8 @@ class Vehicle(Unit):
         self.hasTurret = False
         self.vehicleType=''
         self.unitType='Vehicle'
+
+        self.setUnitIcon()
 
     def calculate_internal_structure(self):
         """
@@ -269,8 +376,9 @@ class Vehicle(Unit):
 
 class Mech(Unit):
 
-    def __init__(self):
-        super().__init__("", "Mech") #set the name and the unitType
+    def __init__(self, name):
+        super().__init__(name) #set the name and the unitType
+        self.name = name
         self.model = None
         self.config = None
         self.tech_base = None
@@ -287,6 +395,7 @@ class Mech(Unit):
         self.weapons = []
         self.critical_slots = {}
         self.internal_structure = {}
+        self.unitType = 'Mech'
 
     def __str__(self):
         return f"{self.name} {self.model}"
@@ -315,7 +424,7 @@ class Mech(Unit):
         file = zipfile.ZipFile(mechZip, 'r').read(file_path).decode().split('\n') #we're loading mechs, so we know where this zipped data file lives, let's open it, decode and split into lines
 
         for line in file:
-
+            components = []
             line = line.strip()
             #print(line)
             if line.startswith('Version:'):
@@ -357,7 +466,6 @@ class Mech(Unit):
                 if location:  # Save the previous location's data
                     self.critical_slots[location] = components
                 location = line[:-1]  # New location
-                components = []
             elif location:
                 components.append(line)  # Add component to current location
             elif line:

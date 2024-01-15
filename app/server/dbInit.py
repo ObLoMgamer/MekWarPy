@@ -1,4 +1,4 @@
-import sqlite3
+import sqlite4
 # This Python file uses the following encoding: utf-8
 
 # the dbInit script creates and/or updates the database which holds basic unit data (unit name, image path, and data path)
@@ -24,7 +24,7 @@ def store_unit_paths(unit_image_map):
     """
 
     # Connect to the SQLite database
-    conn = sqlite3.connect(db_path)
+    conn = sqlite4.connect(db_path)
     cursor = conn.cursor()
 
     # Create table for unit paths
