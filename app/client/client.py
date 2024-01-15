@@ -26,12 +26,12 @@ testHangar = {'Mechs':    ['Charger CGR-1A1',
             'Infantry':[]}
 #let's create some test data
 
-
 def main():
 
     unit_image_map = parse_unit_image_map_to_dict(unit_image_associations_file)
     app = QtWidgets.QApplication(sys.argv)
 
+    #the requests logic will go in here requesting player and world states
     player = Player('testPlayer')
     player.setHangar(testHangar)
     player.generateTestPilots() #generate test pilots to match the types of whatever we've put into the test unit hangar
