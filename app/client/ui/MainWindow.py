@@ -81,7 +81,7 @@ class MainWindow(QtWidgets.QMainWindow):
         self.pilotTab = self.findChild(QtWidgets.QWidget, "pilotTab")
 
         print(f"mwTab found: {self.mwTab is not None}")  # Should print True
-        print(f"mwTab found: {self.pilotTab is not None}")  # Should print True
+        print(f"pilotTab found: {self.pilotTab is not None}")  # Should print True
 
         rosterTabs = {'MechWarriors': self.mwTab, 'Pilots': self.pilotTab}
 
